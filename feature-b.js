@@ -1,1 +1,1 @@
-<h1>Feature b baby</h1>;
+<h2>Feature b baby</h2>;

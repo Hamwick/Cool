@@ -1,1 +1,4 @@
-<p>Feature A AAOREN</p>;
+
+const var = "Latest"
+
+[].localeCompare("ting")
